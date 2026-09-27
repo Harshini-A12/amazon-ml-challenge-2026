@@ -1,0 +1,1 @@
+print("Amazon ml challenge setup working")
